@@ -7,3 +7,9 @@
 [submodule "core/third-party/VulkanMemoryAllocator"]
 	path = core/third-party/VulkanMemoryAllocator
 	url = https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator.git
+[submodule "core/third-party/yaml-cpp"]
+	path = core/third-party/yaml-cpp
+	url = https://github.com/jbeder/yaml-cpp.git
+[submodule "core/third-party/spdlog"]
+	path = core/third-party/spdlog
+	url = https://github.com/gabime/spdlog.git
