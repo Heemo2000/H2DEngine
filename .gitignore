@@ -427,3 +427,8 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Build Files
+[Bb]uild/
+# Lib Files
+[Ll]ib/
