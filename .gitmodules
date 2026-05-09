@@ -4,9 +4,6 @@
 [submodule "core/third-party/glm"]
 	path = core/third-party/glm
 	url = https://github.com/g-truc/glm.git
-[submodule "core/third-party/VulkanMemoryAllocator"]
-	path = core/third-party/VulkanMemoryAllocator
-	url = https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator.git
 [submodule "core/third-party/yaml-cpp"]
 	path = core/third-party/yaml-cpp
 	url = https://github.com/jbeder/yaml-cpp.git
